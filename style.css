@@ -171,8 +171,8 @@ section {
 }
 
 .section__pic-container img {
-    border-bottom-left-radius: 50%;
-    border-bottom-right-radius: 50%;
+    border-radius: 25%;
+    margin-left: 15%;
 }
 
 .section__text {
